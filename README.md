@@ -6,6 +6,22 @@
 ![Preview](https://turtlepaw.is-from.space/r/msedge_FbtuTRh2zX.png)
 *Sneak peak of what's coming*
 
+## Development
+
+### .env
+The `.env` file is required for secret tokens, here's what it should look like:
+
+```env
+//Database
+URL=mongodb+srv://USERNAME:PASSWORD@cluster1.enjfvj.mongodb.net/master
+//Website
+JWT_SECRET=****************
+APP_URI=https://localhost:3000
+//Discord
+CLIENT_ID=******************
+CLIENT_SECRET=**********************
+```
+
 ## Changelogs
 ### 8/2/2022
 * Added OAuth2 support
