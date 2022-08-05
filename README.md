@@ -1,5 +1,5 @@
 <div align="center">
-    <h3><a href="https://form-builder-nextjs.vercel.app/">form-builder-nextjs.vercel.app</a></h2>
+    <h3><a href="https://discord-form-builder.vercel.app/">https://discord-form-builder.vercel.app/</a></h2>
     <h1>Forms - OAuth2 included</h1>
 </div>
 
