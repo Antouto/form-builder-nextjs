@@ -48,5 +48,5 @@ export type DiscordGuildFeatures = "ANIMATED_BANNER"
     | "WELCOME_SCREEN_ENABLED"
 
 export interface DefaultProperties {
-    user: DiscordUser;
+    user: DiscordUser | null;
 }
